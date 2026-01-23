@@ -1,21 +1,26 @@
 Data Cleaning Steps – Power BI (Power Query)
 1. Dataset Import
+
    -Imported the raw Disaster Declaration Summaries dataset into Power BI Desktop.
    -Opened Power Query Editor to perform all data-cleaning operations before loading data into the model.
    
 2.Data Type Validation and Correction
+
    -After importing the raw dataset into Power BI, the first step was to verify the data types of all columns in Power Query     Editor.
     -Each column’s data type was reviewed to ensure it correctly represented the nature of the data.
     -Incorrect or automatically assigned data types were manually corrected to avoid calculation and visualization errors.
     
 3.Column Name Standardization
+
     -Renamed column headers to make them clear, readable, and consistent.
     -Converted column names to Title Case for professional documentation.
     
 4.Replace Values
+
     -Replaced inconsistent or incorrect values with standardized values to ensure uniformity and improve data accuracy for analysis and visualization.
     
 5.Removed Columns
+
     -Remove repeated columns and unwanted columns which are not necessary for data visualization.
     
 6.Text Data Standardization
@@ -34,6 +39,7 @@ Data Cleaning Steps – Power BI (Power Query)
     
 10.Output
     -Final cleaned dataset is analysis-ready.
+
 
 
 
